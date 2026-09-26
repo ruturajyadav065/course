@@ -1,0 +1,9 @@
+sources:
+  - name: My_Source
+    database: Learning_Cloud
+    schema: DBT_Schema
+    tables: 
+     - name: DIM_CUSTOMER
+     - name: FACT_SALES
+  
+
